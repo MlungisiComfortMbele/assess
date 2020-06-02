@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32890" started-at="2020-06-02T17:05:04 CAT" finished-at="2020-06-02T17:05:37 CAT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32890" started-at="2020-06-02T17:05:04 CAT" finished-at="2020-06-02T17:05:37 CAT">
+      <class name="MobileEngine.APN_Tests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:MobileEngine.APN_Tests@ed9d034]" name="setUp" is-config="true" duration-ms="9171" started-at="2020-06-02T17:05:04 CAT" finished-at="2020-06-02T17:05:13 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verify_if_homepage_is_displayed()[pri:1, instance:MobileEngine.APN_Tests@ed9d034]" name="verify_if_homepage_is_displayed" duration-ms="16137" started-at="2020-06-02T17:05:13 CAT" finished-at="2020-06-02T17:05:29 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_if_homepage_is_displayed -->
+        <test-method status="PASS" signature="select_menu()[pri:2, instance:MobileEngine.APN_Tests@ed9d034]" name="select_menu" duration-ms="2027" started-at="2020-06-02T17:05:29 CAT" finished-at="2020-06-02T17:05:31 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_menu -->
+        <test-method status="PASS" signature="unsuccessfulLogin()[pri:4, instance:MobileEngine.APN_Tests@ed9d034]" name="unsuccessfulLogin" duration-ms="5111" started-at="2020-06-02T17:05:31 CAT" finished-at="2020-06-02T17:05:36 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unsuccessfulLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:MobileEngine.APN_Tests@ed9d034]" name="tearDown" is-config="true" duration-ms="406" started-at="2020-06-02T17:05:36 CAT" finished-at="2020-06-02T17:05:37 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- MobileEngine.APN_Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

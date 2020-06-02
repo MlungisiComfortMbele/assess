@@ -4,16 +4,16 @@ The aim of this project is to create a test automation framework that will be us
 
 ## Getting Started
 
-This project is a Maven project. To access this project, import this project directly from github into your IntelliJ IDE or clone the Repository in your local machine and open the Maven project from your local directory into IntelliJ.
+This project is a Maven project. To access this project, import this project directly from github into your IntelliJ IDE/ Eclipse or clone the Repository in your local machine and open the Maven project from your local directory into IntelliJ.
 
 ## Prerequisites
 
 ```bash
 IntelliJ IDEA Community 2020/Eclipse 2019
-Android SDK (Studio)-v3.2.x
-Appium desktop-v1.7.x
-JRE-9.0.x
-JDK-9.0.x
+Android SDK (Studio)
+Appium desktop
+JRE-
+JDK-
 Chrome Web browser
 
 ```
